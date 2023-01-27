@@ -6,4 +6,17 @@
   <li>Incorporated useEffect Hook to add and remove scroll event listeners for navigation bar color change functionality.</li>
   <li>Incorporated SVG files as background images for specific elements.</li>
 </ul>
+
+
+<h2>Plan/To-Do for Bug Tracker</h2>
+<ul>
+  <li>Utilize local storage to persist user data, such as login information and bug reports, across browser sessions.</li>
+  <li>Incorporate a form validation system to ensure that all required fields are filled in before submitting bug reports.</li>
+  <li>Implement a feature to allow users to search for specific bugs using keywords and/or filters.</li>
+  <li>Incorporate a commenting system for users to discuss and collaborate on resolving bugs.</li>
+  <li>Incorporate a notification system to alert users of new bug reports, comments, and updates.</li>
+  <li>Implement a feature to allow users to assign bugs to specific team members and track the progress of bug resolution.</li>
+  <li>Utilize a backend API to handle data storage and retrieval, such as Firebase or a custom Node.js server.</li>
+</ul>
+
 <a href="https://www.linkedin.com/in/lucas01-song" class="button">View my LinkedIn Profile</a>
