@@ -27,5 +27,5 @@
 </ol>
 
 
-<h1>I will be adding bugs as I go along! Come see my frustrations</h1>
+<h1>I will be recording bugs as I go along! Come see my frustrations! </h1>
 <a href="https://www.linkedin.com/in/lucas01-song" class="button">View my LinkedIn Profile</a>
