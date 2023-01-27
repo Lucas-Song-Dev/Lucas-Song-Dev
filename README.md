@@ -1,4 +1,4 @@
-<h2>Project: Bug Tracker</h2>
+<h2>Current Project: Bug Tracker</h2>
 <ul>
   <li>Implemented a responsive navigation bar using React Router and Hooks.</li>
   <li>Utilized state management with Hooks to handle active link highlighting and navigation bar color changes on scroll.</li>
