@@ -6,4 +6,4 @@
   <li>Incorporated useEffect Hook to add and remove scroll event listeners for navigation bar color change functionality.</li>
   <li>Incorporated SVG files as background images for specific elements.</li>
 </ul>
-<a href="https://www.linkedin.com/in/yourusername" class="button">View my LinkedIn Profile</a>
+<a href="https://www.linkedin.com/in/lucas01-song" class="button">View my LinkedIn Profile</a>
