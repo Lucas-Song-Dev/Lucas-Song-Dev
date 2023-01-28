@@ -1,4 +1,4 @@
-<video width="320" height="240" controls>
+<video width="600" height="480" controls>
   <source src="CurProject.mp4" type="video/mp4">
   <source src="CurProject.ogg" type="video/ogg">
   Your browser does not support the video tag.
