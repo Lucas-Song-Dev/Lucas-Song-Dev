@@ -1,3 +1,9 @@
+<video width="320" height="240" controls>
+  <source src="CurProject.mp4" type="video/mp4">
+  <source src="CurProject.ogg" type="video/ogg">
+  Your browser does not support the video tag.
+</video>
+
 <h2>Current Project: Bug Tracker</h2>
 <ul>
   <li>Implemented a responsive navigation bar using React Router and Hooks.</li>
