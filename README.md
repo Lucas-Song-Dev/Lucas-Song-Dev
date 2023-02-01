@@ -1,8 +1,5 @@
-<video width="600" height="480" controls>
-  <source src="CurProject.mp4" type="video/mp4">
-  <source src="CurProject.ogg" type="video/ogg">
-  Your browser does not support the video tag.
-</video>
+<a href="https://lucas-song-dev.github.io/Bug-Tracker/" class="button">View Bug Tracker</a> <br>
+
 
 <h2>Current Project: Bug Tracker</h2>
 <ul>
@@ -34,7 +31,6 @@
 
 
 <h1>I will be recording bugs as I go along! Come take this journey with me!</h1>
-<a href="https://lucas-song-dev.github.io/Bug-Tracker/" class="button">View Bug Tracker</a> <br>
 <a href="https://lucas-song-dev.github.io/Shortest-Path/" class="button">View Path Finding Algorithm</a> <br>
 
 <a href="https://www.linkedin.com/in/lucas01-song" class="button">View my LinkedIn Profile</a><br>
