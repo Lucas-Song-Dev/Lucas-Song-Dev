@@ -1,4 +1,5 @@
 <a href="https://lucas-song-dev.github.io/Bug-Tracker/" class="button">View Bug Tracker</a> <br>
+<a href="https://github.com/Shep221" class="button">View School Acount</a> <br>
 
 
 <h2>Current Project: Bug Tracker</h2>
