@@ -13,7 +13,7 @@
 <h2>In Progress for Bug Tracker</h2>
 <ol>
   <li>Flesh out the base React and frontend for the bug tracker, including adding more components, styling, and overall visual design.</li>
-  <li>Implement user authentication -- <start with google> -- to allow users to log in and access additional features, such as submitting bug reports and commenting on existing bugs.</li>
+  <li>Implement user authentication -- start with google -- to allow users to log in and access additional features, such as submitting bug reports and commenting on existing bugs.</li>
   <li>Utilize a backend API, such as a Node.js server, to handle data storage and retrieval, such as storing and retrieving bug reports, comments, and user information.
 </ol>
 <h2>Project Direction for Bug Tracker</h2>
