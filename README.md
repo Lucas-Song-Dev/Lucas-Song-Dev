@@ -1,4 +1,4 @@
-<a href="https://lucas-song-dev.github.io/Bug-Tracker/" class="button">View Bug Tracker</a> <br>
+<a href="https://assetai.herokuapp.com/" class="button">View Asset AI</a> a full stack MERN ai asset generator <br>
 <a href="https://lucassong.tech" class="button">View Personal Website</a> <br>
 
 
